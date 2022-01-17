@@ -1,0 +1,86 @@
+.targetA{
+    width: 100px;
+    background:orange;
+    height: 100px;
+    text-align: center;
+    padding: 27px;
+
+
+    box-sizing: border-box;
+    border: 2px solid #595757;
+
+    margin-bottom: 40px;
+    box-shadow: #363333 10px 10px 1px;
+
+}
+.targetB{
+    width: 100px;
+    background:orange ;
+    height: 100px;
+    text-align: center;
+    padding: 27px;
+
+    box-sizing: border-box;
+    border: 2px solid  #595757;
+
+    margin-bottom: 40px;
+    box-shadow: #3b3939 9px 6px 3px 1px;
+}
+
+.targetC{
+    width: 100px;
+    background:orange ;
+    height: 100px;
+    text-align: center;
+    padding: 27px;
+
+    box-sizing: border-box;
+    border: 2px solid  #595757;
+
+    margin-bottom: 40px;
+    box-shadow:#3b3939 16px 14px 4px 0px;
+
+}
+.targetD{
+    width: 100px;
+    background:orange ;
+    height: 100px;
+    text-align: center;
+    padding: 27px;
+
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid  #8a8484;
+
+    margin-bottom: 40px;
+    box-shadow: #8a8484 16px 14px 4px 0px;
+}
+.targetE{
+    width: 100px;
+    background:orange ;
+    height: 100px;
+    text-align: center;
+    padding: 27px;
+
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 2px solid  #8a8484;
+
+    margin-bottom: 40px;
+    box-shadow:#3b3939 12px 15px 4px 2px;
+}
+.targetF{
+    width: 100px;
+    background:orange ;
+    height: 100px;
+    text-align: center;
+    padding: 27px;
+
+    box-sizing: border-box;
+    border-radius:5px;
+    border: 2px solid  #8a8484;
+
+
+    margin-bottom: 40px;
+    box-shadow:  #8a8484 14px 12px 4px 1px;
+}
