@@ -1,29 +1,33 @@
-.body{
-    margin: 0;
+
+.h1{
+    background: darkred;
+    color: silver;
+    text-align: center;
+    margin-bottom: 3px;
 }
 
-.target {
-    width: 400px;
-    background: silver;
-    min-height: 100px;
-    overflow: hidden;
+    .a{
+        background: silver;
+        margin-bottom: 0px;
+        padding: 15px;
 
-
-    box-sizing: border-box;
-    padding: 30px;
-
-
+    }
+.b {
+    background: cornflowerblue;
+    padding-top:  15px;
+    padding-bottom: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.targetA{
+    background: #66b666;
+    width: 200px;
+    height: 200px;
+}
+.targetB{
+    background: #5e5858;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
-    border-top-left-radius: 20px;
-
-    margin:100px auto;
-
-    box-shadow: black 10px 10px 10px 10px;
-
 
 }
-.target:hover{
-    height: 400px;
-
-}
-
