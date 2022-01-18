@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+.targetA {
+    width: 150px;
+    height:30px;
+    border: orange 3px solid;
+    text-align: center;
+    border-radius: 30px;
+    margin: 4px auto;
+    color: orange;
+
+}
+.targetB {
+    width: 150px;
+    height:30px;
+    border: #419d90 3px solid;
+    text-align: center;
+    border-radius: 30px;
+    margin: 4px auto;
+    color:#419d90 ;
+}
+.targetC {
+    width: 150px;
+    height:30px;
+    border: deeppink 3px solid;
+    text-align: center;
+    border-radius: 30px;
+    margin: 4px auto;
+    color: deeppink;
+}
+.targetD {
+    width: 150px;
+    height:30px;
+    border:darkred  3px solid;
+    text-align: center;
+    border-radius: 30px;
+    margin: 4px auto;
+    color:darkred ;
+}
